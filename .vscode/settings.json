@@ -1,8 +1,17 @@
 {
+  "rest-client.environmentVariables": {
+    "local": {
+      "baseUrl": "https://js-post-api.herokuapp.com/api"
+    },
+    "production": {
+      "baseUrl": "https://js-post-api.herokuapp.com/api"
+    }
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.organizeImports": "explicit"
   },
-  "javascript.validate.enable": false
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "disabled"
 }

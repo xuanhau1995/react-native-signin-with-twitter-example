@@ -1,4 +1,4 @@
-package com.login;
+package com.haula.osakeAppAi;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

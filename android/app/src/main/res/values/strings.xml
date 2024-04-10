@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">login</string>
+    <string name="app_name">OsakeAiApp</string>
+    <string name="facebook_app_id">1425050998153113</string>
+    <string name="fb_login_protocol_scheme">fb1425050998153113</string>
+    <string name="facebook_client_token">b30ab4b0b783408b298984ef157947d2</string>
 </resources>

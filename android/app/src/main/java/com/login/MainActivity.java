@@ -1,4 +1,4 @@
-package com.login;
+package com.haula.osakeAppAi;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
